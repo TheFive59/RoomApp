@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">RoomApp</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="upload_image">Upload Image</string>
+    <string name="download_image">Download Image</string>
+    <string name="file_manager">Subir imagen</string>
+    <string name="search_images">Buscar imagen</string>
+
+    <string name="name">Nombre completo</string>
+    <string name="phone">Telefono</string>
+    <string name="email">Correo electrrónico</string>
+    <string name="home">Domicilio</string>
+    <string name="gallery">Galeria</string>
+    <string name="camera">Camera</string>
+</resources>
